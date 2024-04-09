@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T13:27:35.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jtD--YtsxUtcTizsIQSJ" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T14:28:59.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="k4QZgW4qUBw3eumyvrzJ" version="24.2.3" type="github">
   <diagram name="第 1 页" id="ex3vgbBMrHSbKyE01gCo">
-    <mxGraphModel dx="1400" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#D6D6BA" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#D6D6BA" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
         <mxCell id="uRY3r14TD4QQsE-ZecM9-76" value="年龄" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="805.9" y="1026.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uRY3r14TD4QQsE-ZecM9-77" value="人数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="uRY3r14TD4QQsE-ZecM9-77" value="百分比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="37.9" y="690.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uRY3r14TD4QQsE-ZecM9-79" value="male" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;fontSize=19;" vertex="1" parent="1">
